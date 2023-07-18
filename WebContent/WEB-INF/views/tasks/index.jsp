@@ -34,7 +34,7 @@
         </div>
         <br />
 
-        <button type="button" onclick="location.href='${pageContext.request.contextPath}/new'">新規メッセージの投稿</button>
+        <button type="button" onclick="location.href='${pageContext.request.contextPath}/new'">新規タスクの投稿</button>
 
     </c:param>
 </c:import>
